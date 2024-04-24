@@ -1,0 +1,5 @@
+Para rodar o backend:
+
+- Tem que ter o nodemon instalado: npm install -g nodemon
+- Para carregar os pacotes: npm install
+- Para rodar: nodemon index.js

@@ -1,0 +1,150 @@
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"dado":{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China"},"id":3}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"dado":{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China"},"id":3}
+{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela","id":4}
+{"dado":{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela"},"id":5}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"dado":{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China"},"id":3}
+{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela","id":4}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"dado":{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China"},"id":3}
+{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela","id":4}
+{"dado":{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela"},"id":5}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":6}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"dado":{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China"},"id":3}
+{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela","id":4}
+{"dado":{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela"},"id":5}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":6}
+{"dado":{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin"},"id":7}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"dado":{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China"},"id":3}
+{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela","id":4}
+{"dado":{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela"},"id":5}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":6}
+{"dado":{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin"},"id":7}
+{"nome":"Servidor Off","tipo":"URGENTE","local":"Belo Horizonte","tecnico_realizar":"alan","id":8}
+{"dado":{"nome":"Servidor Off","tipo":"URGENTE","local":"Belo Horizonte","tecnico_realizar":"alan"},"id":9}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"dado":{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China"},"id":3}
+{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela","id":4}
+{"dado":{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela"},"id":5}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":6}
+{"dado":{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin"},"id":7}
+{"nome":"Servidor Off","tipo":"URGENTE","local":"Belo Horizonte","tecnico_realizar":"alan","id":8}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"dado":{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China"},"id":3}
+{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela","id":4}
+{"dado":{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela"},"id":5}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":6}
+{"dado":{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin"},"id":7}
+{"nome":"Servidor Off","tipo":"URGENTE","local":"Belo Horizonte","tecnico_realizar":"alan","id":8}
+{"dado":{"nome":"Servidor Off","tipo":"URGENTE","local":"Belo Horizonte","tecnico_realizar":"alan"},"id":9}
+{"nome":"","cpf":"","email":"","username":"","endereco":"","id":10}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China","id":2}
+{"dado":{"nome":"Impressora","preco":"R$ 1.000,00","descricao":"Impressora da China"},"id":3}
+{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela","id":4}
+{"dado":{"nome":"Vitor","cpf":"141.039.486-75","email":"vitorhugo662@hotmail.com","endereco":"Rua Venezuela"},"id":5}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":6}
+{"dado":{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin"},"id":7}
+{"nome":"Servidor Off","tipo":"URGENTE","local":"Belo Horizonte","tecnico_realizar":"alan","id":8}
+{"dado":{"nome":"Servidor Off","tipo":"URGENTE","local":"Belo Horizonte","tecnico_realizar":"alan"},"id":9}
+{"nome":"","cpf":"","email":"","username":"","endereco":"","id":10}
+{"dado":{"nome":"","cpf":"","email":"","username":"","endereco":""},"id":11}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":2}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":2}
+{"nome":"José","cpf":"854.684.126-39","email":"ze12@hotmail.com","username":"alan321","endereco":"Rua matin","id":3}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":2}
+{"nome":"José","cpf":"854.684.126-39","email":"ze12@hotmail.com","username":"alan321","endereco":"Rua matin","id":3}
+{"nome":"Vitor Hugo Silva Gonçalves","cpf":"225.468.412-63","email":"vit@hotmail.com","username":"vitor321","endereco":"Rua matin","id":4}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":2}
+{"nome":"José","cpf":"854.684.126-39","email":"ze12@hotmail.com","username":"alan321","endereco":"Rua matin","id":3}
+{"nome":"Vitor Hugo Silva Gonçalves","cpf":"225.468.412-63","email":"vit@hotmail.com","username":"vitor321","endereco":"Rua matin","id":4}
+{"nome":"","cpf":"","email":"","username":"","endereco":"","id":5}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":2}
+{"nome":"José","cpf":"854.684.126-39","email":"ze12@hotmail.com","username":"alan321","endereco":"Rua matin","id":3}
+{"nome":"Vitor Hugo Silva Gonçalves","cpf":"225.468.412-63","email":"vit@hotmail.com","username":"vitor321","endereco":"Rua matin","id":4}
+{"nome":"","cpf":"","email":"","username":"","endereco":"","id":5}
+{"nome":"Antonio","cpf":"448.446.132-49","email":"antonio456@outlook.com","username":"antonio99","endereco":"Rua das laranjeiras","id":6}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":2}
+{"nome":"José","cpf":"854.684.126-39","email":"ze12@hotmail.com","username":"alan321","endereco":"Rua matin","id":3}
+{"nome":"Vitor Hugo Silva Gonçalves","cpf":"225.468.412-63","email":"vit@hotmail.com","username":"vitor321","endereco":"Rua matin","id":4}
+{"nome":"","cpf":"","email":"","username":"","endereco":"","id":5}
+{"nome":"Antonio","cpf":"448.446.132-49","email":"antonio456@outlook.com","username":"antonio99","endereco":"Rua das laranjeiras","id":6}
+{"nome":"mknkncknkcnks","cpf":"112.255.5","email":"fwfw","username":"fwfw","endereco":"fifhwf","id":7}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":2}
+{"nome":"José","cpf":"854.684.126-39","email":"ze12@hotmail.com","username":"alan321","endereco":"Rua matin","id":3}
+{"nome":"Vitor Hugo Silva Gonçalves","cpf":"225.468.412-63","email":"vit@hotmail.com","username":"vitor321","endereco":"Rua matin","id":4}
+{"nome":"","cpf":"","email":"","username":"","endereco":"","id":5}
+{"nome":"Antonio","cpf":"448.446.132-49","email":"antonio456@outlook.com","username":"antonio99","endereco":"Rua das laranjeiras","id":6}
+{"nome":"mknkncknkcnks","cpf":"112.255.5","email":"fwfw","username":"fwfw","endereco":"fifhwf","id":7}
+{"nome":"mknkncknkcnks","cpf":"112.255.5","email":"fwfw","username":"fwfw","endereco":"fifhwf","id":8}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Alan","cpf":"225.468.412-63","email":"alan2@hotmail.com","username":"alan321","endereco":"Rua matin","id":2}
+{"nome":"José","cpf":"854.684.126-39","email":"ze12@hotmail.com","username":"alan321","endereco":"Rua matin","id":3}
+{"nome":"Vitor Hugo Silva Gonçalves","cpf":"225.468.412-63","email":"vit@hotmail.com","username":"vitor321","endereco":"Rua matin","id":4}
+{"nome":"","cpf":"","email":"","username":"","endereco":"","id":5}
+{"nome":"Antonio","cpf":"448.446.132-49","email":"antonio456@outlook.com","username":"antonio99","endereco":"Rua das laranjeiras","id":6}
+{"nome":"mknkncknkcnks","cpf":"112.255.5","email":"fwfw","username":"fwfw","endereco":"fifhwf","id":7}
+{"nome":"mknkncknkcnks","cpf":"112.255.5","email":"fwfw","username":"fwfw","endereco":"fifhwf","id":8}
+{"dado":{"nome":"mknkncknkcnks","cpf":"112.255.5","email":"fwfw","username":"fwfw","endereco":"fifhwf"},"id":9}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Vitor Hugo Silva gonçalves","cpf":"145.264.486-33","email":"vitor.goncalves@ufu.br","endereco":"Rua Venezuela","id":2}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Vitor Hugo Silva gonçalves","cpf":"145.264.486-33","email":"vitor.goncalves@ufu.br","endereco":"Rua Venezuela","id":2}
+{"nome":"Aroldo","cpf":"984.100.514-41","email":"aroldo@hotmail.com","endereco":"Rua das laranjeiras","id":3}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Vitor Hugo Silva gonçalves","cpf":"145.264.486-33","email":"vitor.goncalves@ufu.br","endereco":"Rua Venezuela","id":2}
+{"nome":"Aroldo","cpf":"984.100.514-41","email":"aroldo@hotmail.com","endereco":"Rua das laranjeiras","id":3}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":"Impressora made China","id":4}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Vitor Hugo Silva gonçalves","cpf":"145.264.486-33","email":"vitor.goncalves@ufu.br","endereco":"Rua Venezuela","id":2}
+{"nome":"Aroldo","cpf":"984.100.514-41","email":"aroldo@hotmail.com","endereco":"Rua das laranjeiras","id":3}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":"Impressora made China","id":4}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":"Imccevevev","id":5}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":"svsvsvs","id":2}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":"svsvsvs","id":2}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":" vj vnvpmvm´mv","id":3}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":"svsvsvs","id":2}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":" vj vnvpmvm´mv","id":3}
+{"nome":"Aroldo","cpf":"984.100.514-41","email":"aroldo@hotmail.com","username":"aroldo123","endereco":"Rua das laranjeiras","id":4}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":"svsvsvs","id":2}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":" vj vnvpmvm´mv","id":3}
+{"nome":"Aroldo","cpf":"984.100.514-41","email":"aroldo@hotmail.com","username":"aroldo123","endereco":"Rua das laranjeiras","id":4}
+{"nome":"Vitor Hugo Silva gonçalves","cpf":"156.328.933-35","email":"vitorhugo662@hotmail.com","username":"vitin662","endereco":"Rua Venezuela","id":5}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":"svsvsvs","id":2}
+{"nome":"Impressora","preco":"R$ 1.500,00","descricao":" vj vnvpmvm´mv","id":3}
+{"nome":"Aroldo","cpf":"984.100.514-41","email":"aroldo@hotmail.com","username":"aroldo123","endereco":"Rua das laranjeiras","id":4}
+{"nome":"Vitor Hugo Silva gonçalves","cpf":"156.328.933-35","email":"vitorhugo662@hotmail.com","username":"vitin662","endereco":"Rua Venezuela","id":5}
+{"nome":"Vitor Hugo Silva gonçalves","cpf":"785.246.912-33","email":"vitor.goncalves@ufu.br","username":"vitor77","endereco":"alameda 123","id":6}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45,"tipo":"cliente"}
+{"nome":"aroldo","cpf":"965.478.321-45","email":"aroldo@hotmail.com","username":"aroldo123","endereco":"rua Z 123","id":2}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45,"tipo":"cliente"}
+{"nome":"Aroldo","cpf":"984.100.514-41","email":"aroldo@hotmail.com","endereco":"Rua das laranjeiras","id":2}
+{"id":1,"nome":"Miguel","email":"miguel@teste.com","username":"miguel123","endereco":"","cpf":"123.456.789-10","cep":"38409-085","bairro":"Novo Mundo","localidade":"Av. Victor Alves Pereira","cidade":"Uberlândia","uf":"MG","complemento":"","descrição":"","preço":"preço","dataNascimento":"10/10/1980","idade":45,"tipo":"cliente"}
+{"nome":"Aroldo","cpf":"984.100.514-41","email":"aroldo@hotmail.com","endereco":"Rua das laranjeiras","id":2}
+{"nome":"Aroldo","cpf":"984.100.514-41","email":"aroldo@hotmail.com","endereco":"Rua das laranjeiras","id":3}
